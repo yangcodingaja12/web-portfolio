@@ -1,7 +1,7 @@
 # Website Rayhan Ade
 ## Challenge Website Orkom Auto A
-### Portfolio responsive complete
-A clean and nice web portfolio for designer or developer. That includes almost everything you want to show. At first, your name, links to social networks and a great image. Then the About section displays more information about you. Then the list of Skills it offers. It also has a section where it shows some recent work. And at the bottom it has a form, and at the end with a footer.
+### Responsive Portfolio Complete
+Hi, I'm Ade Nur Rachman and I'm Rayhan Habibi. we are full stack developer. We have a project, namely a portfolio website for computer organization courses. This challenge is given with the aim that students can find out how to host websites using the Digitalocean cloud .
 
 ![preview img](/preade.png)
 ![preview img](/prehabibi.png)
